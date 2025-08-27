@@ -19,3 +19,14 @@ The BibTeX entry for the paper is::
         pages = {798-811},
         doi = {10.1093/mnras/stw3020}
     }
+
+Installation
+------------
+
+Clone this repositry and install using `pip`
+
+```bash
+git clone https://github.com/SunilSimha/frb_ppxf.git
+cd frb_ppxf
+pip install -e .
+```
